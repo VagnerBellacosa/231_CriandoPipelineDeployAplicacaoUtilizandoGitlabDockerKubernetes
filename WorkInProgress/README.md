@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um Pipeline de Deploy de uma Aplicação Utilizando Gitlab, Docker e Kubernetes](https://web.dio.me/lab/criando-um-pipeline-de-deploy-de-uma-aplicacao-utilizando-gitlab-docker-e-kubernetes/learning/c4d632cf-b2b1-481f-b7e6-ab325597f4b1)[Entendendo o Desafio](https://web.dio.me/lab/criando-um-pipeline-de-deploy-de-uma-aplicacao-utilizando-gitlab-docker-e-kubernetes/learning/32d2649f-ecb2-4908-8916-7716c458cc4c)
+- [Criando um Pipeline de Deploy de uma Aplicação Utilizando Gitlab, Docker e Kubernetes](https://web.dio.me/lab/criando-um-pipeline-de-deploy-de-uma-aplicacao-utilizando-gitlab-docker-e-kubernetes/learning/c4d632cf-b2b1-481f-b7e6-ab325597f4b1)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-um-pipeline-de-deploy-de-uma-aplicacao-utilizando-gitlab-docker-e-kubernetes/learning/32d2649f-ecb2-4908-8916-7716c458cc4c)
 
 
 
